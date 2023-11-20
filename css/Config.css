@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .DesktopView {
+        @apply w-96 h-auto p-2
+    }
+}
